@@ -8,7 +8,7 @@ I'm **Chapdel KAMGA**, i'am Entrepreneur, Promotor of @notchafrica, IT Manager ,
 
 - 💬 Ask me about **Vue, Nuxt, Laravel, Javascript, Flutter**
 
-- 📫 How to reach me **chapdel.kamga2@gmail.com**
+- 📫 How to reach me **drop@chapdel.me**
 
 - ⚡ Fun fact **Panda**
 
